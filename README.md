@@ -1,4 +1,4 @@
 Atomix Puzzle Game Android Port. 
 Over 400 Levels
 
-![Atomix](atomix.jpg)
+![Atomix](Atomix.jpg)
