@@ -1,4 +1,5 @@
 name: Extract Atomix archive
+# Runs when the source archive or this workflow changes.
 
 on:
   push:
